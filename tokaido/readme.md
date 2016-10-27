@@ -2,7 +2,7 @@
 
 ファイル名 | 内容 | 作者
 ----|---- | ----
-jaws-ug_tokaido.jpg | 2015年のもの | N/A
+jaws-ug_tokaido.jpg | 2015年のもの | 小木 悠斗
 jaws_festa_2016_tokaido.pdf | JAWS Festa 2016 東海道用に作成 | 蒼木 はる
 
 # クレジット
